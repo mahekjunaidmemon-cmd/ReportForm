@@ -1,0 +1,37 @@
+<DOCTYPE HTML>
+<html>
+<body>
+
+<center><h2>Report FORM<h2>
+<form>
+<h2 style = "background-color:darkgreen;">INFORMATION TABLE</h2>
+
+<label for = "fname"><b>Name</b></label>
+<input type = "text" id = "fname" name "fname"><br>
+
+<label for = "email"><b>Enter your email</b></label>
+<input type = "email" id = "email" name = "email"><br>
+
+<label for = "pwd"><b>Password</b></label>
+<input type = "password" id = "pwd" name = "pwd"><br>
+
+<label for = "address"<b><ADDRESS></b></label>
+<input type="text" id = "address" name="address">
+
+<label for = "country"<b>Choose your country</b></label>
+<select id="country" name="country">
+<option value = "Pakistan">Pakistan</option>
+<option value = "Turkey">Turkey</option>
+<option value = "London">London</option>
+<option value = "Iraq">Iraq</option>
+<option value = "Malaysia">Malaysia</option>
+
+<label for= "fname">Gender</label>
+<input type = "radio" id = "Male" name="gender" value="Male"
+<label for = "Male">Male</label><br>
+<input type = "radio" id ="Female" name="gender" value="Female"
+<label for="Female"Female</label><br>
+
+
+
+
